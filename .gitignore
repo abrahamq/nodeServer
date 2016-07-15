@@ -1,0 +1,6 @@
+# taken from: https://github.com/github/gitignore/blob/master/Packer.gitignore
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
